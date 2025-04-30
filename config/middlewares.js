@@ -23,6 +23,7 @@ module.exports = [
         "http://localhost:1337",
         "https://designhub-api.up.railway.app",
         "https://designhubfe.netlify.app",
+        "https://designhubfe.vercel.app",
       ],
     },
   },
